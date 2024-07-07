@@ -1,17 +1,17 @@
 # Feminist books data project: The process
- This is a repository with the notebooks and tables used in my 'feminist books project', which analyses the Penguin Random House catalogue of books in Spanish.
+ This is a repository with the notebooks and tables used in my 'feminist books project', which analyses the Penguin Random House catalogue of books in Spanish. You can check it out [here](https://anaemepe.github.io/feminist-books-project/):
 
 In this first project my aim was to understand the evolution of books about feminism in recent years. There was a huge wave of books on feminism some years ago and I 
 feel it is no longer the case. So my initial question was: Are there more or less new books about feminism now compared to five years ago? 
 
 I focused on one country, Spain, where I come from, and the leading publishing house, Penguin Random House. I limited the analysis to the number of books, years and related genres in order to show a glimpse of the current situation and trends.
 
-The main findings (which you can read [here](https://anaemepe.github.io/feminist-books-project/) are:
+The main findings are:
 - Penguin's online collection of Spanish books contains 118 labelled "feminist". The company publishes 1,800 new titles each year.
 - There are only 3 titles in the current collection published before 2014.
 - Related genres are sometimes surprising: for example, there are way more feminist books also labelled "influencers' books" than LGBTIQ literature.
 
-The data collection process consisted of, first, scraping [Penguin Random House feminist collection pages](https://www.penguinlibros.com/es/136-libros-feministas) to obtain the titles and links. Then, I scraped each book's page and collected publication years and related genres. Each book page looked like [this](https://www.penguinlibros.com/es/audiolibros-de-economia-politica-y-actualidad/288520-audiolibro-teoria-king-kong-9788439740247?mot_tcid=ed8fb4c9-2c99-48b5-8a42-46a909bfec6a). There were 118 of them so running the code took some time. 
+The data collection process consisted of, first, scraping Penguin Random House feminist collection [pages](https://www.penguinlibros.com/es/136-libros-feministas) to obtain the titles and links. Then, I scraped each book's page and collected publication years and related genres. Each book page looked like [this](https://www.penguinlibros.com/es/audiolibros-de-economia-politica-y-actualidad/288520-audiolibro-teoria-king-kong-9788439740247?mot_tcid=ed8fb4c9-2c99-48b5-8a42-46a909bfec6a). There were 118 of them so running the code took some time. 
 
 After collecting the data, I placed it in two different dataframes, one with the books (title, author, year, link) and another with the genres. I chose to have two because most of the books are under several genres so there was a huge risk of distributing them in the wrong places. I also wasn't interested in knowing which book had what related genres, but in a more global reading, so it made even more sense to keep them separately. 
 
@@ -24,7 +24,7 @@ I then exported them as tables in csv format as I wanted to keep the scraping no
 
 ## A section about new skills, etc
 
-I've grown a lot in scraping, or to be more precise, I have developed a little passion/obsession for scraping. I've also learnt to use scatterplots creatively. 
+I've grown a lot in scraping, along with a little passion/obsession for it. I've also learnt to use scatterplots creatively and the whole workflow process.
 
 ## A section about things I tried
 
