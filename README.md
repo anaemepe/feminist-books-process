@@ -1,5 +1,5 @@
 # Feminist books data project: The process
- This is a repository with the notebooks and tables used in my 'feminist books project', which analyses the Penguin Random House catalogue of books in Spanish. You can check it out [here](https://anaemepe.github.io/feminist-books-project/):
+ This is a repository with the notebooks and tables used in my 'feminist books project', which analyses the Penguin Random House catalogue of books in Spanish. You can check it out [here](https://anaemepe.github.io/feminist-books-project/).
 
 In this first project my aim was to understand the evolution of books about feminism in recent years. There was a huge wave of books on feminism some years ago and I 
 feel it is no longer the case. So my initial question was: Are there more or less new books about feminism now compared to five years ago? 
