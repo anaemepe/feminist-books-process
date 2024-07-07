@@ -31,8 +31,8 @@ I've grown a lot in scraping, along with a little passion/obsession for it. I've
 My initial plan was to analyse the words used in the titles and build a classification. Many titles refer to body parts, the natural world, and motherhood or its absence.
 However, this required deeper qualitative analysis and several editorial decisions, so I chose not to go down that road for the time being. 
 
-I also tried to scrape the descriptions of each book for the same aim but when Penguin blocked me I accepted that it was time to pass to something else. Before this, my even initial-initial plan was to also scrape the second largest publishing house in Spain and compare results. Time limitation was also the reason not to pursue this plan. 
+I also tried to scrape the descriptions of each book for the same aim but when Penguin blocked me I accepted that it was time to pass to something else. Before this, my pre-initial plan was to also scrape the second largest publishing house in Spain and compare results. Time limitation was also the reason not to pursue this plan. 
 
-In the visualisation part, I tried to include more 'related genres' comparisons so the squares in the graph would look like little books - which was the idea I had in mind for that graph. But things got confusing pretty quickly. 
+In the visualisation part, I tried to include more 'related genres' comparisons so the squares in the graph would look like little books - which was the idea I had in mind for that visual. But things got confusing pretty quickly. 
 
 If I had developed this project in a newsroom, I would have **definitely** contacted Penguin Random House for comments and questions about their data. 
